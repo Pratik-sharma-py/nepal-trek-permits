@@ -1,0 +1,385 @@
+{
+  "_meta": {
+    "source": "Nepal Tourism Authority (NTA), TAAN, Nepal Immigration Office",
+    "lastUpdated": "April 2026",
+    "currency": "NPR (Nepalese Rupees) unless noted"
+  },
+  "treks": {
+    "ebc": {
+      "name": "Everest Base Camp",
+      "region": "Khumbu, Sagarmatha Zone",
+      "typicalDays": "12–16",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "sagarmatha",
+            "name": "Sagarmatha National Park Entry",
+            "fullName": "Sagarmatha National Park Entry Permit",
+            "fee": { "saarc": 1500, "other": 3000 },
+            "currency": "NPR",
+            "where": "Park gate at Monjo (paid on arrival)",
+            "note": "Paid at the gate. Keep receipt for exit.",
+            "buyOnline": false
+          },
+          {
+            "id": "khumbu-rural",
+            "name": "Khumbu Pasang Lhamu Fee",
+            "fullName": "Khumbu Pasang Lhamu Rural Municipality Fee",
+            "fee": { "saarc": 2000, "other": 2000 },
+            "currency": "NPR",
+            "where": "Collected at Lukla",
+            "note": "Flat fee for all nationalities. Collected on arrival in Lukla.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "annapurna-circuit": {
+      "name": "Annapurna Circuit",
+      "region": "Gandaki Region",
+      "typicalDays": "14–21",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "acap",
+            "name": "ACAP Permit",
+            "fullName": "Annapurna Conservation Area Permit",
+            "fee": { "saarc": 200, "other": 3000 },
+            "currency": "NPR",
+            "where": "NTB office, Kathmandu or Pokhara",
+            "note": "Valid for the entire Annapurna Conservation Area. Keep with you.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "abc": {
+      "name": "Annapurna Base Camp",
+      "region": "Annapurna Region",
+      "typicalDays": "7–10",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "acap",
+            "name": "ACAP Permit",
+            "fullName": "Annapurna Conservation Area Permit",
+            "fee": { "saarc": 200, "other": 3000 },
+            "currency": "NPR",
+            "where": "NTB office, Kathmandu or Pokhara",
+            "note": "Valid for the entire Annapurna Conservation Area. Keep with you.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "langtang": {
+      "name": "Langtang Valley",
+      "region": "Rasuwa District",
+      "typicalDays": "7–10",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "langtang-np",
+            "name": "Langtang National Park Entry",
+            "fullName": "Langtang National Park Entry Permit",
+            "fee": { "saarc": 1500, "other": 3000 },
+            "currency": "NPR",
+            "where": "Park gate at Dhunche",
+            "note": "Paid at the gate. Keep receipt — checked at multiple points.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "manaslu": {
+      "name": "Manaslu Circuit",
+      "region": "Gorkha District",
+      "typicalDays": "14–18",
+      "restricted": true,
+      "permits": {
+        "required": [
+          {
+            "id": "manaslu-rap",
+            "name": "Restricted Area Permit (RAP)",
+            "fullName": "Manaslu Restricted Area Permit",
+            "fee": { "saarc": "USD 100/week (Sep–Nov), USD 75/week (other)", "other": "USD 100/week (Sep–Nov), USD 75/week (other)" },
+            "currency": "USD",
+            "where": "Nepal Immigration, Kathmandu only",
+            "note": "Must be arranged in Kathmandu. Licensed guide mandatory — solo trekking not permitted.",
+            "buyOnline": false
+          },
+          {
+            "id": "manaslu-cap",
+            "name": "Manaslu Conservation Area Permit",
+            "fullName": "Manaslu Conservation Area Permit",
+            "fee": { "saarc": 1500, "other": 3000 },
+            "currency": "NPR",
+            "where": "NTB office, Kathmandu",
+            "note": "Obtained together with RAP in Kathmandu.",
+            "buyOnline": false
+          },
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu",
+            "note": "Checked at checkpoints throughout the route.",
+            "buyOnline": false
+          },
+          {
+            "id": "gorkha-rural",
+            "name": "Gorkha Rural Municipality Fee",
+            "fullName": "Gorkha Rural Municipality Entry Fee",
+            "fee": { "saarc": 1000, "other": 1000 },
+            "currency": "NPR",
+            "where": "Collected at checkpoints",
+            "note": "Flat fee for all nationalities.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "upper-mustang": {
+      "name": "Upper Mustang",
+      "region": "Mustang District",
+      "typicalDays": "10–14",
+      "restricted": true,
+      "permits": {
+        "required": [
+          {
+            "id": "mustang-rap",
+            "name": "Restricted Area Permit (RAP)",
+            "fullName": "Upper Mustang Restricted Area Permit",
+            "fee": { "saarc": "USD 500 for 10 days, USD 50/extra day", "other": "USD 500 for 10 days, USD 50/extra day" },
+            "currency": "USD",
+            "where": "Nepal Immigration, Kathmandu only",
+            "note": "Minimum group of 2 trekkers required. Licensed guide mandatory.",
+            "buyOnline": false
+          },
+          {
+            "id": "acap",
+            "name": "ACAP Permit",
+            "fullName": "Annapurna Conservation Area Permit",
+            "fee": { "saarc": 200, "other": 3000 },
+            "currency": "NPR",
+            "where": "NTB office, Kathmandu or Pokhara",
+            "note": "Required in addition to the RAP.",
+            "buyOnline": false
+          },
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at police posts throughout the route.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "poon-hill": {
+      "name": "Ghorepani Poon Hill",
+      "region": "Annapurna Foothills",
+      "typicalDays": "4–5",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "acap",
+            "name": "ACAP Permit",
+            "fullName": "Annapurna Conservation Area Permit",
+            "fee": { "saarc": 200, "other": 3000 },
+            "currency": "NPR",
+            "where": "NTB office, Kathmandu or Pokhara",
+            "note": "Most popular short trek in Nepal — checkpoints are very active.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    },
+    "gosaikunda": {
+      "name": "Gosaikunda",
+      "region": "Langtang Region",
+      "typicalDays": "5–7",
+      "restricted": false,
+      "permits": {
+        "required": [
+          {
+            "id": "tims",
+            "name": "TIMS Card",
+            "fullName": "Trekking Information Management System Card",
+            "fee": { "saarc": 600, "other": 2000 },
+            "currency": "NPR",
+            "where": "TAAN office, Kathmandu or Pokhara",
+            "note": "Checked at every police post. Carry at all times.",
+            "buyOnline": false
+          },
+          {
+            "id": "langtang-np",
+            "name": "Langtang National Park Entry",
+            "fullName": "Langtang National Park Entry Permit",
+            "fee": { "saarc": 1500, "other": 3000 },
+            "currency": "NPR",
+            "where": "Park gate or NTB office",
+            "note": "Gosaikunda is within Langtang National Park boundaries.",
+            "buyOnline": false
+          }
+        ],
+        "recommended": [
+          {
+            "id": "insurance",
+            "name": "Travel & Rescue Insurance",
+            "fullName": "Comprehensive Travel & Helicopter Rescue Insurance",
+            "fee": "varies",
+            "currency": null,
+            "where": "Buy online before departure",
+            "note": "Helicopter rescues cost USD 3,000–8,000. Strongly recommended.",
+            "buyOnline": true
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "ebc": {
+    "mapCenter": [27.9881, 86.9250],
+    "mapZoom": 10,
+    "weatherLat": 27.9881,
+    "weatherLon": 86.9250,
+    "weatherCity": "Namche Bazaar",
+    "altitudeProfile": [
+      { "day": 1, "place": "Lukla", "altitude": 2860, "distance": 0 },
+      { "day": 2, "place": "Phakding", "altitude": 2610, "distance": 8 },
+      { "day": 3, "place": "Namche Bazaar", "altitude": 3440, "distance": 11 },
+      { "day": 4, "place": "Namche (Acclimatize)", "altitude": 3440, "distance": 0 },
+      { "day": 5, "place": "Tengboche", "altitude": 3860, "distance": 10 },
+      { "day": 6, "place": "Dingboche", "altitude": 4360, "distance": 10 },
+      { "day": 7, "place": "Dingboche (Acclimatize)", "altitude": 4360, "distance": 0 },
+      { "day": 8, "place": "Lobuche", "altitude": 4940, "distance": 11 },
+      { "day": 9, "place": "Gorak Shep / EBC", "altitude": 5364, "distance": 8 },
+      { "day": 10, "place": "Kala Patthar / Pheriche", "altitude": 4280, "distance": 14 },
+      { "day": 11, "place": "Namche Bazaar", "altitude": 3440, "distance": 18 },
+      { "day": 12, "place": "Lukla", "altitude": 2860, "distance": 16 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Fly Kathmandu → Lukla, trek to Phakding", "altitude": 2860, "duration": "3–4 hrs", "description": "Take the thrilling 35-minute mountain flight to Lukla (2,860m), then trek downhill through pine forests along the Dudh Koshi River to Phakding." },
+      { "day": 2, "title": "Phakding → Namche Bazaar", "altitude": 3440, "duration": "5–6 hrs", "description": "Cross several suspension bridges and climb steeply to Namche Bazaar, the 'gateway to the Himalayas'. First views of Everest on a clear day." },
+      { "day": 3, "title": "Acclimatization Day — Namche Bazaar", "altitude": 3440, "duration": "Rest day", "description": "Essential rest day. Hike up to the Everest View Hotel (3,880m) for panoramic views. Visit the Saturday market if timing works. Stay hydrated." },
+      { "day": 4, "title": "Namche → Tengboche", "altitude": 3860, "duration": "5–6 hrs", "description": "Trek past yak herds and rhododendron forests to the famous Tengboche Monastery with stunning views of Ama Dablam and Everest." },
+      { "day": 5, "title": "Tengboche → Dingboche", "altitude": 4360, "duration": "5–6 hrs", "description": "Descend to Pangboche then climb to Dingboche through high alpine terrain. Excellent views of Lhotse and Island Peak." },
+      { "day": 6, "title": "Acclimatization Day — Dingboche", "altitude": 4360, "duration": "Rest day", "description": "Hike to the ridge above Dingboche (5,000m) for acclimatization. Critical day — do not skip. Watch for headache, nausea, dizziness." },
+      { "day": 7, "title": "Dingboche → Lobuche", "altitude": 4940, "duration": "4–5 hrs", "description": "Trek across the Khumbu glacier moraine to Lobuche. Altitude effects become more pronounced here. Move slowly and stay hydrated." },
+      { "day": 8, "title": "Lobuche → Gorak Shep → EBC", "altitude": 5364, "duration": "7–8 hrs", "description": "Trek to Gorak Shep (5,164m) for lunch, then push on to Everest Base Camp (5,364m). Emotional and unforgettable. Return to Gorak Shep to sleep." },
+      { "day": 9, "title": "Kala Patthar sunrise → Pheriche", "altitude": 4280, "duration": "7–8 hrs", "description": "Pre-dawn climb to Kala Patthar (5,545m) for the most iconic Everest sunrise view. Descend all the way to Pheriche for better sleep altitude." },
+      { "day": 10, "title": "Pheriche → Namche Bazaar", "altitude": 3440, "duration": "6–7 hrs", "description": "Long but rewarding descent. Legs will feel it. Stop at Tengboche for tea and a final view of the Everest massif." },
+      { "day": 11, "title": "Namche → Lukla", "altitude": 2860, "duration": "6–7 hrs", "description": "Final push back to Lukla. Celebrate with dinner and local Tongba beer. Book a wake-up call — early flights are common." },
+      { "day": 12, "title": "Fly Lukla → Kathmandu", "altitude": 1400, "duration": "Flight day", "description": "Morning flight back to Kathmandu. Flights are weather-dependent — build buffer days into your itinerary. Rest, recover, celebrate." }
+    ],
+    "trailPoints": [
+      { "name": "Lukla", "lat": 27.6869, "lng": 86.7298, "alt": 2860 },
+      { "name": "Namche Bazaar", "lat": 27.8063, "lng": 86.7139, "alt": 3440 },
+      { "name": "Tengboche", "lat": 27.8361, "lng": 86.7642, "alt": 3860 },
+      { "name": "Dingboche", "lat": 27.8942, "lng": 86.8306, "alt": 4360 },
+      { "name": "Lobuche", "lat": 27.9494, "lng": 86.8117, "alt": 4940 },
+      { "name": "Gorak Shep", "lat": 27.9783, "lng": 86.8294, "alt": 5164 },
+      { "name": "Everest Base Camp", "lat": 27.9881, "lng": 86.9250, "alt": 5364 },
+      { "name": "Kala Patthar", "lat": 27.9955, "lng": 86.8275, "alt": 5545 }
+    ]
+  },
+  "annapurna-circuit": {
+    "mapCenter": [28.5971, 84.1209],
+    "mapZoom": 9,
+    "weatherLat": 28.3974,
+    "weatherLon": 83.9556,
+    "weatherCity": "Manang",
+    "altitudeProfile": [
+      { "day": 1, "place": "Besisahar", "altitude": 823, "distance": 0 },
+      { "day": 2, "place": "Chame", "altitude": 2670, "distance": 38 },
+      { "day": 3, "place": "Pisang", "altitude": 3185, "distance": 22 },
+      { "day": 4, "place": "Manang", "altitude": 3500, "distance": 22 },
+      { "day": 5, "place": "Manang (Acclimatize)", "altitude": 3500, "distance": 0 },
+      { "day": 6, "place": "High Camp", "altitude": 4850, "distance": 14 },
+      { "day": 7, "place": "Thorong La Pass", "altitude": 5416, "distance": 8 },
+      { "day": 8, "place": "Muktinath", "altitude": 3800, "distance": 18 },
+      { "day": 9, "place": "Jomsom", "altitude": 2720, "distance": 21 },
+      { "day": 10, "place": "Tatopani", "altitude": 1190, "distance": 35 },
+      { "day": 11, "place": "Ghorepani", "altitude": 2860, "distance": 22 },
+      { "day": 12, "place": "Nayapul", "altitude": 1070, "distance": 22 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Kathmandu → Besisahar → Bhulbhule", "altitude": 840, "duration": "Drive + 2 hrs", "description": "Drive 7–8 hours to Besisahar, then short walk to Bhulbhule. The circuit begins here along the Marsyangdi River valley." },
+      { "day": 2, "title": "Bhulbhule → Jagat → Chame", "altitude": 2670, "duration": "Full day", "description": "Trek through subtropical forest and waterfalls, gaining altitude steadily. Chame is the administrative headquarters of Manang district." },
+      { "day": 3, "title": "Chame → Upper Pisang", "altitude": 3185, "duration": "5–6 hrs", "description": "Pass the dramatic curved rock face and enter the rain shadow region. Upper Pisang has better views and less crowded teahouses." },
+      { "day": 4, "title": "Pisang → Manang", "altitude": 3500, "duration": "5–6 hrs", "description": "Trek the high route via Ghyaru and Ngawal for stunning Annapurna views, or take the valley route. Both arrive at Manang." },
+      { "day": 5, "title": "Acclimatization Day — Manang", "altitude": 3500, "duration": "Rest day", "description": "Mandatory rest. Hike to Ice Lake (4,600m) or Gangapurna Lake. Attend the daily AMS briefing at the medical post. Do not skip this day." },
+      { "day": 6, "title": "Manang → High Camp / Thorong Phedi", "altitude": 4850, "duration": "4–5 hrs", "description": "Short but altitude-intensive day. Stay at High Camp (4,850m) for an easier pass crossing tomorrow. Early dinner and early sleep." },
+      { "day": 7, "title": "Cross Thorong La Pass → Muktinath", "altitude": 3800, "duration": "7–8 hrs", "description": "The highlight of the circuit. Start by 4–5am to cross Thorong La (5,416m) before afternoon winds. Descend to the sacred Muktinath temple." },
+      { "day": 8, "title": "Muktinath → Jomsom", "altitude": 2720, "duration": "4–5 hrs", "description": "Descend through the dramatic Kali Gandaki gorge, the world's deepest valley. Strong afternoon winds are normal — start early." },
+      { "day": 9, "title": "Jomsom → Tatopani", "altitude": 1190, "duration": "Full day or jeep", "description": "Many trekkers take a jeep or flight from Jomsom. If trekking, descend through Marpha (apple brandy stop) and Ghasa to hot springs at Tatopani." },
+      { "day": 10, "title": "Tatopani → Ghorepani", "altitude": 2860, "duration": "6–7 hrs", "description": "Steep climb up through beautiful rhododendron forest to Ghorepani. Hard on the legs after so many days — take it slow." },
+      { "day": 11, "title": "Poon Hill sunrise → Nayapul", "altitude": 1070, "duration": "Sunrise + 5 hrs", "description": "Early morning climb to Poon Hill (3,210m) for the famous Annapurna sunrise panorama. Descend to Nayapul and drive to Pokhara." },
+      { "day": 12, "title": "Drive to Pokhara / Kathmandu", "altitude": 820, "duration": "Drive day", "description": "Short drive to Pokhara (1.5 hrs) or onward to Kathmandu (7 hrs). Circuit complete!" }
+    ],
+    "trailPoints": [
+      { "name": "Besisahar", "lat": 28.2347, "lng": 84.3906, "alt": 823 },
+      { "name": "Chame", "lat": 28.5477, "lng": 84.2319, "alt": 2670 },
+      { "name": "Manang", "lat": 28.6674, "lng": 84.0189, "alt": 3500 },
+      { "name": "Thorong La Pass", "lat": 28.7953, "lng": 83.9308, "alt": 5416 },
+      { "name": "Muktinath", "lat": 28.8175, "lng": 83.8719, "alt": 3800 },
+      { "name": "Jomsom", "lat": 28.7806, "lng": 83.7344, "alt": 2720 },
+      { "name": "Ghorepani", "lat": 28.4006, "lng": 83.6950, "alt": 2860 },
+      { "name": "Nayapul", "lat": 28.3561, "lng": 83.7736, "alt": 1070 }
+    ]
+  },
+  "abc": {
+    "mapCenter": [28.5300, 83.8781],
+    "mapZoom": 10,
+    "weatherLat": 28.5300,
+    "weatherLon": 83.8781,
+    "weatherCity": "Chhomrong",
+    "altitudeProfile": [
+      { "day": 1, "place": "Nayapul", "altitude": 1070, "distance": 0 },
+      { "day": 2, "place": "Chhomrong", "altitude": 2170, "distance": 18 },
+      { "day": 3, "place": "Bamboo", "altitude": 2310, "distance": 10 },
+      { "day": 4, "place": "Deurali", "altitude": 3230, "distance": 12 },
+      { "day": 5, "place": "ABC", "altitude": 4130, "distance": 9 },
+      { "day": 6, "place": "Chhomrong", "altitude": 2170, "distance": 22 },
+      { "day": 7, "place": "Nayapul", "altitude": 1070, "distance": 18 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Pokhara → Nayapul → Tikhedhunga", "altitude": 1540, "duration": "Drive + 3 hrs", "description": "Drive 1.5 hours from Pokhara to Nayapul, then trek through terraced farmland and the busy market town of Birethanti." },
+      { "day": 2, "title": "Tikhedhunga → Ghorepani → Chhomrong", "altitude": 2170, "duration": "6–7 hrs", "description": "Long climb up stone steps to Ulleri then Ghorepani. Option to detour via Poon Hill. Descend to Chhomrong, gateway to the Annapurna Sanctuary." },
+      { "day": 3, "title": "Chhomrong → Bamboo", "altitude": 2310, "duration": "4–5 hrs", "description": "Steep descent then climb into the Modi Khola valley. The trail enters dense bamboo and rhododendron forest. Peaceful and atmospheric." },
+      { "day": 4, "title": "Bamboo → Deurali", "altitude": 3230, "duration": "5–6 hrs", "description": "Climb through the narrow Annapurna Sanctuary entrance past Himalaya Hotel and Dovan. Watch for avalanche-prone sections above Hinku Cave." },
+      { "day": 5, "title": "Deurali → Annapurna Base Camp", "altitude": 4130, "duration": "4–5 hrs", "description": "Enter the sacred Annapurna Sanctuary — a glacial amphitheater ringed by 7,000m+ peaks. Annapurna I (8,091m) towers directly above. Unforgettable." },
+      { "day": 6, "title": "ABC → Bamboo / Chhomrong", "altitude": 2170, "duration": "6–7 hrs", "description": "Early morning views at ABC before descending. The descent feels fast compared to the climb. Aim for Chhomrong or Bamboo." },
+      { "day": 7, "title": "Chhomrong → Nayapul → Pokhara", "altitude": 820, "duration": "5 hrs + drive", "description": "Final descent back to Nayapul and drive to Pokhara. Hot shower and a lakeside dinner well deserved." }
+    ],
+    "trailPoints": [
+      { "name": "Nayapul", "lat": 28.3561, "lng": 83.7736, "alt": 1070 },
+      { "name": "Chhomrong", "lat": 28.4869, "lng": 83.8217, "alt": 2170 },
+      { "name": "Himalaya Hotel", "lat": 28.5219, "lng": 83.8506, "alt": 2920 },
+      { "name": "Machhapuchhre Base Camp", "lat": 28.5178, "lng": 83.8717, "alt": 3700 },
+      { "name": "Annapurna Base Camp", "lat": 28.5300, "lng": 83.8781, "alt": 4130 }
+    ]
+  },
+  "langtang": {
+    "mapCenter": [28.2114, 85.5122],
+    "mapZoom": 10,
+    "weatherLat": 28.2114,
+    "weatherLon": 85.5122,
+    "weatherCity": "Langtang Village",
+    "altitudeProfile": [
+      { "day": 1, "place": "Syabrubesi", "altitude": 1460, "distance": 0 },
+      { "day": 2, "place": "Lama Hotel", "altitude": 2380, "distance": 14 },
+      { "day": 3, "place": "Langtang Village", "altitude": 3430, "distance": 14 },
+      { "day": 4, "place": "Kyanjin Gompa", "altitude": 3870, "distance": 7 },
+      { "day": 5, "place": "Kyanjin Ri", "altitude": 4773, "distance": 5 },
+      { "day": 6, "place": "Lama Hotel", "altitude": 2380, "distance": 21 },
+      { "day": 7, "place": "Syabrubesi", "altitude": 1460, "distance": 14 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Kathmandu → Syabrubesi", "altitude": 1460, "duration": "7–8 hrs drive", "description": "Long but scenic drive through the hills north of Kathmandu. Syabrubesi is the starting point of the Langtang trek, near the Tibetan border." },
+      { "day": 2, "title": "Syabrubesi → Lama Hotel", "altitude": 2380, "duration": "5–6 hrs", "description": "Trek through dense forest along the Langtang Khola river. Great birdwatching. The 2015 earthquake caused significant rockfall — visible throughout." },
+      { "day": 3, "title": "Lama Hotel → Langtang Village", "altitude": 3430, "duration": "5–6 hrs", "description": "The valley opens up dramatically. Pass rebuilt Ghoda Tabela army post. Langtang Village was destroyed in the 2015 earthquake and beautifully rebuilt." },
+      { "day": 4, "title": "Langtang Village → Kyanjin Gompa", "altitude": 3870, "duration": "3–4 hrs", "description": "Short day across open yak pastures. Kyanjin Gompa has a famous yak cheese factory — try the local cheese. Acclimatize here before going higher." },
+      { "day": 5, "title": "Day hike — Kyanjin Ri or Tsergo Ri", "altitude": 4773, "duration": "4–6 hrs", "description": "Hike to Kyanjin Ri (4,773m) for panoramic Langtang Lirung views, or push to Tsergo Ri (4,984m) for even broader views. No camping — return to Kyanjin." },
+      { "day": 6, "title": "Kyanjin Gompa → Lama Hotel", "altitude": 2380, "duration": "5–6 hrs", "description": "Big descent day. Knees will feel the 1,500m drop. Trekking poles highly recommended. Beautiful forest views on the way down." },
+      { "day": 7, "title": "Lama Hotel → Syabrubesi → Kathmandu", "altitude": 1400, "duration": "4 hrs + drive", "description": "Final descent to Syabrubesi then drive back to Kathmandu. Arrive evening — book a hotel room in advance." }
+    ],
+    "trailPoints": [
+      { "name": "Syabrubesi", "lat": 28.1583, "lng": 85.3725, "alt": 1460 },
+      { "name": "Lama Hotel", "lat": 28.1778, "lng": 85.4319, "alt": 2380 },
+      { "name": "Langtang Village", "lat": 28.2044, "lng": 85.5019, "alt": 3430 },
+      { "name": "Kyanjin Gompa", "lat": 28.2114, "lng": 85.5722, "alt": 3870 },
+      { "name": "Kyanjin Ri", "lat": 28.2253, "lng": 85.5800, "alt": 4773 }
+    ]
+  },
+  "manaslu": {
+    "mapCenter": [28.5500, 84.5600],
+    "mapZoom": 9,
+    "weatherLat": 28.5500,
+    "weatherLon": 84.5600,
+    "weatherCity": "Samagaun",
+    "altitudeProfile": [
+      { "day": 1, "place": "Soti Khola", "altitude": 730, "distance": 0 },
+      { "day": 3, "place": "Jagat", "altitude": 1340, "distance": 42 },
+      { "day": 5, "place": "Deng", "altitude": 1804, "distance": 35 },
+      { "day": 7, "place": "Namrung", "altitude": 2630, "distance": 30 },
+      { "day": 9, "place": "Samagaun", "altitude": 3530, "distance": 28 },
+      { "day": 10, "place": "Samagaun (Acclimatize)", "altitude": 3530, "distance": 0 },
+      { "day": 11, "place": "Samdo", "altitude": 3860, "distance": 10 },
+      { "day": 12, "place": "Dharamsala", "altitude": 4460, "distance": 12 },
+      { "day": 13, "place": "Larkya La Pass", "altitude": 5160, "distance": 9 },
+      { "day": 14, "place": "Bimthang", "altitude": 3720, "distance": 14 },
+      { "day": 16, "place": "Dharapani", "altitude": 1860, "distance": 40 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Kathmandu → Soti Khola", "altitude": 730, "duration": "8–9 hrs drive", "description": "Long drive to the trailhead at Soti Khola. The road passes through Arughat — last major town before the restricted zone." },
+      { "day": 2, "title": "Soti Khola → Machhakhola", "altitude": 869, "duration": "5–6 hrs", "description": "Trek through subtropical forest along the Budhi Gandaki river. Hot and humid at lower elevations. Many suspension bridges." },
+      { "day": 3, "title": "Machhakhola → Jagat", "altitude": 1340, "duration": "6–7 hrs", "description": "Enter the restricted zone — your RAP is checked here. Trek through dramatic gorges with powerful waterfalls." },
+      { "day": 4, "title": "Jagat → Deng", "altitude": 1804, "duration": "5–6 hrs", "description": "Pass through Philim village. Tibetan cultural influences begin to appear. Landscape becomes more alpine." },
+      { "day": 5, "title": "Deng → Namrung", "altitude": 2630, "duration": "6–7 hrs", "description": "Trek through Ghap, passing impressive mani walls and chortens. Enter classic Tibetan highland scenery." },
+      { "day": 6, "title": "Namrung → Lho → Samagaun", "altitude": 3530, "duration": "6–7 hrs", "description": "First views of Manaslu (8,163m) from Lho village. Arrive at Samagaun, base for Manaslu Base Camp day trips." },
+      { "day": 7, "title": "Acclimatization — Samagaun / Manaslu BC", "altitude": 3530, "duration": "Rest day", "description": "Day hike to Manaslu Base Camp (4,800m) for acclimatization and close-up views of the world's 8th highest peak." },
+      { "day": 8, "title": "Samagaun → Samdo", "altitude": 3860, "duration": "3–4 hrs", "description": "Short acclimatization day to Samdo near the Tibetan border. Visit the Tibetan refugee settlement." },
+      { "day": 9, "title": "Samdo → Dharamsala (High Camp)", "altitude": 4460, "duration": "4–5 hrs", "description": "Climb to the high camp below Larkya La. Very basic accommodation — bring layers. Early dinner and sleep." },
+      { "day": 10, "title": "Cross Larkya La Pass → Bimthang", "altitude": 3720, "duration": "8–9 hrs", "description": "Most demanding day. Start by 4am to cross Larkya La (5,160m) in safe conditions. Long descent to Bimthang through glacial terrain." },
+      { "day": 11, "title": "Bimthang → Tilije", "altitude": 2300, "duration": "5–6 hrs", "description": "Descend rapidly through dramatic altitude change. Pine and rhododendron forests return. Tilije has apple orchards." },
+      { "day": 12, "title": "Tilije → Dharapani → Drive out", "altitude": 1860, "duration": "4 hrs + drive", "description": "Reach Dharapani where the Annapurna Circuit road begins. Drive to Besisahar or Kathmandu." }
+    ],
+    "trailPoints": [
+      { "name": "Soti Khola", "lat": 28.0906, "lng": 84.7881, "alt": 730 },
+      { "name": "Jagat", "lat": 28.3583, "lng": 84.7147, "alt": 1340 },
+      { "name": "Namrung", "lat": 28.5194, "lng": 84.6222, "alt": 2630 },
+      { "name": "Samagaun", "lat": 28.5939, "lng": 84.5661, "alt": 3530 },
+      { "name": "Larkya La Pass", "lat": 28.6583, "lng": 84.4583, "alt": 5160 },
+      { "name": "Bimthang", "lat": 28.6361, "lng": 84.3906, "alt": 3720 },
+      { "name": "Dharapani", "lat": 28.5558, "lng": 84.3367, "alt": 1860 }
+    ]
+  },
+  "upper-mustang": {
+    "mapCenter": [29.1800, 83.9600],
+    "mapZoom": 9,
+    "weatherLat": 29.1800,
+    "weatherLon": 83.9600,
+    "weatherCity": "Lo Manthang",
+    "altitudeProfile": [
+      { "day": 1, "place": "Jomsom", "altitude": 2720, "distance": 0 },
+      { "day": 2, "place": "Kagbeni", "altitude": 2810, "distance": 12 },
+      { "day": 3, "place": "Chele", "altitude": 3050, "distance": 18 },
+      { "day": 4, "place": "Syangboche", "altitude": 3800, "distance": 20 },
+      { "day": 5, "place": "Ghami", "altitude": 3520, "distance": 16 },
+      { "day": 6, "place": "Lo Manthang", "altitude": 3840, "distance": 18 },
+      { "day": 7, "place": "Lo Manthang (Explore)", "altitude": 3840, "distance": 0 },
+      { "day": 8, "place": "Ghami", "altitude": 3520, "distance": 18 },
+      { "day": 9, "place": "Kagbeni", "altitude": 2810, "distance": 34 },
+      { "day": 10, "place": "Jomsom", "altitude": 2720, "distance": 12 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Fly / drive to Jomsom", "altitude": 2720, "duration": "Travel day", "description": "Fly from Pokhara to Jomsom (25 min) or drive 8 hours. Prepare permits. Jomsom checkpoint verifies your RAP and group size." },
+      { "day": 2, "title": "Jomsom → Kagbeni (Restricted Zone Entry)", "altitude": 2810, "duration": "3–4 hrs", "description": "Enter Upper Mustang at the Kagbeni checkpoint — your RAP is checked and stamped here. The landscape immediately becomes more Tibetan." },
+      { "day": 3, "title": "Kagbeni → Chele", "altitude": 3050, "duration": "5–6 hrs", "description": "Trek through stark red and ochre cliffs into the ancient kingdom. Wind picks up — afternoons can be very strong. Start early." },
+      { "day": 4, "title": "Chele → Syangboche", "altitude": 3800, "duration": "6–7 hrs", "description": "Cross high passes with views into Tibet. The landscape is unlike anywhere else in Nepal — almost lunar and extraordinarily beautiful." },
+      { "day": 5, "title": "Syangboche → Ghami", "altitude": 3520, "duration": "5–6 hrs", "description": "Pass the longest mani wall in Nepal. Ghami has one of the best-preserved monasteries in the region." },
+      { "day": 6, "title": "Ghami → Lo Manthang", "altitude": 3840, "duration": "5–6 hrs", "description": "Arrive at the legendary walled city of Lo Manthang, the ancient capital of the Mustang Kingdom. The king's palace is at the center." },
+      { "day": 7, "title": "Explore Lo Manthang", "altitude": 3840, "duration": "Free day", "description": "Visit the four gompa monasteries, the royal palace, and ancient cave dwellings. Hire a local guide for monastery access. Extraordinary culture." },
+      { "day": 8, "title": "Lo Manthang → Ghami (return)", "altitude": 3520, "duration": "5–6 hrs", "description": "Begin the return journey. Different trail options available — consider going via Charang for variety." },
+      { "day": 9, "title": "Ghami → Kagbeni", "altitude": 2810, "duration": "6–7 hrs", "description": "Long descent back through the Kali Gandaki valley. Exit the restricted zone at Kagbeni checkpoint — final permit stamp." },
+      { "day": 10, "title": "Kagbeni → Jomsom → Fly out", "altitude": 820, "duration": "3 hrs + flight", "description": "Short trek to Jomsom then fly back to Pokhara. Flights are weather dependent — build a buffer day into your schedule." }
+    ],
+    "trailPoints": [
+      { "name": "Jomsom", "lat": 28.7806, "lng": 83.7344, "alt": 2720 },
+      { "name": "Kagbeni", "lat": 28.8406, "lng": 83.7783, "alt": 2810 },
+      { "name": "Chele", "lat": 28.9761, "lng": 83.8597, "alt": 3050 },
+      { "name": "Ghami", "lat": 29.0994, "lng": 83.9208, "alt": 3520 },
+      { "name": "Lo Manthang", "lat": 29.1800, "lng": 83.9600, "alt": 3840 }
+    ]
+  },
+  "poon-hill": {
+    "mapCenter": [28.4006, 83.6950],
+    "mapZoom": 11,
+    "weatherLat": 28.4006,
+    "weatherLon": 83.6950,
+    "weatherCity": "Ghorepani",
+    "altitudeProfile": [
+      { "day": 1, "place": "Nayapul", "altitude": 1070, "distance": 0 },
+      { "day": 2, "place": "Ghorepani", "altitude": 2860, "distance": 22 },
+      { "day": 3, "place": "Poon Hill", "altitude": 3210, "distance": 5 },
+      { "day": 4, "place": "Tadapani", "altitude": 2630, "distance": 10 },
+      { "day": 5, "place": "Nayapul", "altitude": 1070, "distance": 18 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Pokhara → Nayapul → Tikhedhunga", "altitude": 1540, "duration": "Drive + 3 hrs", "description": "Drive 1.5 hours from Pokhara to Nayapul. Trek through Birethanti where permits are checked, then climb to Tikhedhunga." },
+      { "day": 2, "title": "Tikhedhunga → Ulleri → Ghorepani", "altitude": 2860, "duration": "6–7 hrs", "description": "Climb the famous 3,000+ stone steps to Ulleri — tough but rewarding. Continue through rhododendron forest to Ghorepani. Book a wake-up call." },
+      { "day": 3, "title": "Poon Hill sunrise → Tadapani", "altitude": 2630, "duration": "Sunrise + 4 hrs", "description": "Pre-dawn hike to Poon Hill (3,210m) for the most famous Himalayan sunrise view — Dhaulagiri, Annapurna range, and Machhapuchhre all visible. Trek to Tadapani after breakfast." },
+      { "day": 4, "title": "Tadapani → Ghandruk → Nayapul", "altitude": 1070, "duration": "5–6 hrs", "description": "Descend through the Gurung village of Ghandruk with its traditional architecture and museum. Continue to Nayapul for the drive back to Pokhara." },
+      { "day": 5, "title": "Drive Nayapul → Pokhara", "altitude": 820, "duration": "1.5 hrs drive", "description": "Short drive back. Shortest major trek in Nepal — perfect for first-timers or those with limited time." }
+    ],
+    "trailPoints": [
+      { "name": "Nayapul", "lat": 28.3561, "lng": 83.7736, "alt": 1070 },
+      { "name": "Tikhedhunga", "lat": 28.3744, "lng": 83.7369, "alt": 1540 },
+      { "name": "Ghorepani", "lat": 28.4006, "lng": 83.6950, "alt": 2860 },
+      { "name": "Poon Hill", "lat": 28.4056, "lng": 83.6906, "alt": 3210 },
+      { "name": "Ghandruk", "lat": 28.3789, "lng": 83.8028, "alt": 1940 }
+    ]
+  },
+  "gosaikunda": {
+    "mapCenter": [28.0742, 85.4161],
+    "mapZoom": 11,
+    "weatherLat": 28.0742,
+    "weatherLon": 85.4161,
+    "weatherCity": "Gosaikunda",
+    "altitudeProfile": [
+      { "day": 1, "place": "Dhunche", "altitude": 1950, "distance": 0 },
+      { "day": 2, "place": "Sing Gompa", "altitude": 3330, "distance": 14 },
+      { "day": 3, "place": "Gosaikunda Lake", "altitude": 4380, "distance": 12 },
+      { "day": 4, "place": "Laurebina Pass", "altitude": 4610, "distance": 6 },
+      { "day": 5, "place": "Dhunche", "altitude": 1950, "distance": 28 }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Drive Kathmandu → Dhunche", "altitude": 1950, "duration": "4–5 hrs drive", "description": "Drive north from Kathmandu through winding mountain roads to Dhunche, the entry point to Langtang National Park. Permits checked here." },
+      { "day": 2, "title": "Dhunche → Sing Gompa", "altitude": 3330, "duration": "5–6 hrs", "description": "Steep climb through forest. Sing Gompa (Chandanbari) has a famous cheese factory run by monks. Good acclimatization stop." },
+      { "day": 3, "title": "Sing Gompa → Gosaikunda Lake", "altitude": 4380, "duration": "4–5 hrs", "description": "Climb to the sacred Gosaikunda Lake complex — a Hindu pilgrimage site of great significance. Series of high alpine lakes in a glacial bowl. Stunning." },
+      { "day": 4, "title": "Gosaikunda → Laurebina Pass → Ghopte", "altitude": 3430, "duration": "5–6 hrs", "description": "Cross Laurebina Pass (4,610m) — one of the highest points on the trail. Descend to Ghopte or Phedi if continuing to Helambu region." },
+      { "day": 5, "title": "Return to Dhunche / Drive Kathmandu", "altitude": 1400, "duration": "5 hrs + drive", "description": "Descend back to Dhunche and drive to Kathmandu. Alternatively, extend to Helambu for a longer circuit trek." }
+    ],
+    "trailPoints": [
+      { "name": "Dhunche", "lat": 28.1125, "lng": 85.3019, "alt": 1950 },
+      { "name": "Sing Gompa", "lat": 28.0931, "lng": 85.3628, "alt": 3330 },
+      { "name": "Gosaikunda Lake", "lat": 28.0742, "lng": 85.4161, "alt": 4380 },
+      { "name": "Laurebina Pass", "lat": 28.0519, "lng": 85.4381, "alt": 4610 }
+    ]
+  }
+}
